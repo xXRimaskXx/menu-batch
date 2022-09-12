@@ -16,7 +16,7 @@ Credits:
 
 Creator: Rimask
 
-Discord server: [Server] (https://dsc.gg/shop-batch)
+Discord server: [Server](https://dsc.gg/shop-batch)
 
 🇮🇹 Come usarlo:
 
@@ -34,4 +34,4 @@ Crediti
 
 Creatore: Rimask
 
-Server discord: [Server] (https://dsc.gg/shop-batch)
+Server discord: [Server](https://dsc.gg/shop-batch)
